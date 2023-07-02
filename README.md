@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nimishshandily_" target="blank"><img src="https://img.shields.io/twitter/follow/nimishshandily_?logo=twitter&style=for-the-badge" alt="nimishshandily_" /></a> </p>
 
-- 📫 How to reach me **1000016934@dit.edu.in**
+- 📫 How to reach me **nimishshandilya2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
