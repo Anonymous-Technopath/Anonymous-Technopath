@@ -24,3 +24,4 @@
 &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymous-Technopath&theme=highcontrast&hide_border=false" alt="anonymous-technopath" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous-Technopath&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="anonymous-technopath" />
+<br>
